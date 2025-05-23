@@ -18,3 +18,4 @@ resetBtn.onclick = function(){
     count = 0;
     countLabel.textcontent = count;
 }
+//work on the reset button later

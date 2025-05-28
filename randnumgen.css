@@ -1,0 +1,16 @@
+body{
+    font-family: venerama;
+    text-align: center;
+
+}
+.buttonGen{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius:5px;
+    background-color: brown;
+
+}
+.labelGen{
+    font-size: 2em;
+    
+}

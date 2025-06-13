@@ -24,5 +24,8 @@ mySubmit.onclick = function(){
     else{
         payResult.textContent = "you must choose one " ;
     }
+<<<<<<< HEAD
     
+=======
+>>>>>>> refs/remotes/origin/master
 }

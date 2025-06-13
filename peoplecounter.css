@@ -1,0 +1,51 @@
+
+h2 {
+    font-size: 60px;
+    margin-top:0;
+    margin-bottom: 0;
+
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+
+#increment-button {
+    background: darkgreen;
+}
+#increment-button:hover{
+    cursor: pointer;
+}
+
+
+#save-button{
+    font-family: gothic;
+    background: darkgreen;
+    font-size: 40px;
+    font-style: italic;
+    width: 400px;
+    border: none;
+    box-shadow: inset;
+
+
+}
+#save-button:hover{
+    cursor:pointer;
+    background: black;
+    width: 300px;
+}
+#count-el{
+    color: yellow;
+}
+#count-el:hover{
+    cursor: grab;
+    color: green;
+}

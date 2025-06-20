@@ -40,7 +40,9 @@ function increment(){
 
 
 let saved = document.getElementById("saved-button");
+let saveEl=document.getElementById("save-el");
 function  save(){
-    saved.textContent= "progress saved"
+    let countStr = count + "-"
+    saveEl.textContent += countStr
 
 }
